@@ -1,0 +1,4 @@
+{
+  "ABC-123": { "expire": "2025-12-31", "used": false },
+  "VIP-999": { "expire": "2025-10-01", "used": false }
+}
